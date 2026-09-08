@@ -1,0 +1,4 @@
+pyocd>=0.45.0
+pyelftools>=0.33
+cmsis-pack-manager>=0.6.0
+pylink-square>=1.7.0
